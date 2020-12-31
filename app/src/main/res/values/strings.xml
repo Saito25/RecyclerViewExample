@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="main_empty_view">No element yet</string>
+    <string name="add_student" tools:ignore="ExtraTranslation">Add student</string>
+    <string name="deleted_user">%1$s was eliminated</string>
+    <string name="main_undo">Undo</string>
+    <string name="delete_all_student">Delete All Student</string>
+    <string name="no_students">No students for deleted</string>
+    <string name="only_legal_age">Only legal Age</string>
+    <string name="all_students">All students</string>
+</resources>
